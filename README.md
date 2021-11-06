@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @miguelmayhem92
-- 👀 I’m interested in Machine Learning. Specific topics: Time series forecasting, Deep Learning, Image analysis and processing and cuisine
+- 👋 Hi, I’m @miguel
+- 👀 I’m data scientist and machine learning professional. My interest topics: Time series forecasting, Deep Learning, Image analysis and processing and cuisin
