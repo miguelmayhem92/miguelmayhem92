@@ -8,6 +8,6 @@
 
 #### My tools
 
-![](https://img.shields.io/badge/-Python-yellow)  ![](https://img.shields.io/badge/-Pyspark-yellow)   ![](https://img.shields.io/badge/-Scikit_learn-green)     ![](https://img.shields.io/badge/-Feature_engine-green)  ![](https://img.shields.io/badge/-FastAPI-green) 
+![](https://img.shields.io/badge/-Python-yellow)  ![](https://img.shields.io/badge/-Pyspark-yellow)   ![](https://img.shields.io/badge/-Scikit_learn-green)     ![](https://img.shields.io/badge/-Feature_engine-green)  ![](https://img.shields.io/badge/-FastAPI-green)  ![](https://img.shields.io/badge/-Tox-green) 
 ![](https://img.shields.io/badge/-Keras-blue)  ![](https://img.shields.io/badge/-Tensorflow-yellow)
 ![](https://img.shields.io/badge/-Stattools-blue)  ![](https://img.shields.io/badge/-Sql-blue)   ![](https://img.shields.io/badge/-R-blue)
